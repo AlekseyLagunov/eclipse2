@@ -152,3 +152,4 @@ public class frmSquareEquation extends JFrame {
 		contentPane.add(lbl1);
 	}
 }
+
